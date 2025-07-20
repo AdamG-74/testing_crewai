@@ -1,0 +1,47 @@
+{
+  "project_name": "src",
+  "timestamp": "2025-07-19T13:21:54.951131",
+  "before_metrics": {
+    "coverage_percentage": 0,
+    "mutation_score": 0.0,
+    "assertion_density": 0,
+    "test_clarity_score": 0.0,
+    "complexity_score": 0,
+    "mock_coverage": 0,
+    "total_tests": 0,
+    "total_assertions": 0,
+    "total_mocks": 0,
+    "uncovered_units": [],
+    "low_quality_tests": []
+  },
+  "after_metrics": {
+    "coverage_percentage": 0,
+    "mutation_score": 0.0,
+    "assertion_density": 0,
+    "test_clarity_score": 0.0,
+    "complexity_score": 0,
+    "mock_coverage": 0,
+    "total_tests": 0,
+    "total_assertions": 0,
+    "total_mocks": 0,
+    "uncovered_units": [],
+    "low_quality_tests": []
+  },
+  "improvements": {
+    "coverage_delta": 0,
+    "mutation_score_delta": 0.0,
+    "assertion_density_delta": 0,
+    "test_clarity_delta": 0.0,
+    "complexity_score_delta": 0,
+    "mock_coverage_delta": 0,
+    "tests_added": 0,
+    "assertions_added": 0
+  },
+  "recommendations": [
+    "Increase test coverage to at least 80%",
+    "Improve mutation score by adding more comprehensive assertions",
+    "Increase assertion density for better test effectiveness"
+  ],
+  "generated_tests_count": 0,
+  "modified_tests_count": 0
+}

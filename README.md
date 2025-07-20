@@ -41,8 +41,8 @@ This framework implements a fully autonomous testing improvement system that:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd crewai_testing
+git clone https://github.com/AdamG-74/testing_crewai.git
+cd testing_crewai
 
 # Install dependencies
 poetry install
@@ -341,4 +341,4 @@ For questions, issues, or contributions:
 
 ---
 
-**Built with ❤️ using CrewAI and LangChain** 
+**Built with ❤️ using CrewAI and LangChain**
